@@ -1,4 +1,3 @@
-# dashgo
 
 # Dashgo 💜 | Dashboard feito com Chakra UI
 
